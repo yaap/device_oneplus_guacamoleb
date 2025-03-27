@@ -191,10 +191,3 @@ vendor/etc/sensors/config/sx932x_0.json
 vendor/etc/sensors/config/tcs3701.json
 vendor/etc/sensors/sns_reg_config
 vendor/lib64/sensors.ssc.so
-
-# MDM Interface
-vendor/bin/ks
-vendor/bin/mdm_helper
--vendor/lib64/libmdmdetect.so;MODULE_SUFFIX=_vendor
-vendor/lib64/libmdmimgload.so
-vendor/lib64/liboemnvbk_img_helper.so
